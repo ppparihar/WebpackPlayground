@@ -1,0 +1,27 @@
+{
+  "name": "webpackplayground",
+  "version": "1.0.0",
+  "description": "hands on webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ppparihar/WebpackPlayground.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "ppparihar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppparihar/WebpackPlayground/issues"
+  },
+  "homepage": "https://github.com/ppparihar/WebpackPlayground#readme",
+  "devDependencies": {
+    "webpack": "^2.3.2",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
